@@ -8,3 +8,8 @@ scipy
 joblib
 threadpoolctl
 imblearn
+xgboost
+lightgbm
+optuna
+shap
+ipywidgets
